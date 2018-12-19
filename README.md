@@ -10,5 +10,9 @@ Pruebas:
 
 Burrito:
 
-Inline-style: 
-![alt text](https://github.com/Kath17/Grafica_Scanner3D/blob/master/burrito.png "Burrito_scanner")
+![alt text](https://github.com/Kath17/Grafica_Scanner3D/blob/master/burrito.png https://github.com/Kath17/Grafica_Scanner3D/blob/master/burrito_original.png "Burrito_scanner")
+
+Erizo:
+
+![alt text](https://github.com/Kath17/Grafica_Scanner3D/blob/master/erizo.png https://github.com/Kath17/Grafica_Scanner3D/blob/master/erizo_original.png "Burrito_scanner")
+
