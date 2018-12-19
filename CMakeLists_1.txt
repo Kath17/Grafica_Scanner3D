@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+
+project(crear_pcd)
+
+find_package(PCL 1.2 REQUIRED)
+
+include_directories(${PCL_INCLUDE_DIRS})
+link_directories(${PCL_LIBRARY_DIRS})
+add_definitions(${PCL_DEFINITIONS})
+
+add_executable (crear_pcd crear_pcd.cpp)
+target_link_libraries (crear_pcd ${PCL_LIBRARIES})
