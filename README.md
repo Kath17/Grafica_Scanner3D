@@ -10,9 +10,9 @@ Pruebas:
 
 Burrito:
 
-![alt text](https://github.com/Kath17/Grafica_Scanner3D/blob/master/burrito.png https://github.com/Kath17/Grafica_Scanner3D/blob/master/burrito_original.png "Burrito_scanner")
+![alt text](burrito.png "Burrito_scanner") ![alt text](burrito_original.png "Burrito_scanner")
 
 Erizo:
 
-![alt text](https://github.com/Kath17/Grafica_Scanner3D/blob/master/erizo.png https://github.com/Kath17/Grafica_Scanner3D/blob/master/erizo_original.png "Burrito_scanner")
+![alt text](erizo.png "Burrito_scanner") ![alt text](erizo_original.png "erizo_original")
 
