@@ -1,0 +1,3 @@
+/home/kat/Documentos/CSUNSA7/8voSemestre/ComputacionGrafica/GRAFICA/CMakeFiles/edit_cache.dir
+/home/kat/Documentos/CSUNSA7/8voSemestre/ComputacionGrafica/GRAFICA/CMakeFiles/rebuild_cache.dir
+/home/kat/Documentos/CSUNSA7/8voSemestre/ComputacionGrafica/GRAFICA/CMakeFiles/greedy_projection.dir
